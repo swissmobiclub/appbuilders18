@@ -7,6 +7,10 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 
 Register now: [https://www.appbuilders.ch](https://www.appbuilders.ch)
 
-## Student Scholarships
+## Slides & Videos
 
-You can find all the information about App Builders student scholarships [here](https://github.com/swissmobidevs/appbuilders18/blob/master/scholarship/).
+Coming Soon
+
+## Feedback
+
+Please open an issue with your feedback about the conference.
