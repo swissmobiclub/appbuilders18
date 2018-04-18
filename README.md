@@ -9,7 +9,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 
 - Phillip Shoemaker - Lessons Learned from the App Store
 - Beatrice Sigrist Charbonnier - Work-life Balance & Burnout
-- Krzysztof Zabłocki - iOS Application Architecture
+- Krzysztof Zabłocki - iOS Application Architecture - [Slides](https://www.dropbox.com/s/ujwdi44ail8nuik/architecture.pdf?dl=0)
 - Andreas Schlosser - Native iOS Apps for the Enterprise with SAP
 - Dave DeLong - A Better MVC
 - Graham Lee - Rethinking Object-Oriented Design
@@ -30,7 +30,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - David Hart - Swift Generics - The 5 Stages of PATs - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/Swift%20Generics.pdf)
 - Paul Hudson - How to Build a Modern iOS App: Wide color, 3D Touch, Spotlight, and more
 - Matthias Tretter - Swift & Objective-C: The most adventurous mashup since „Avengers: Infinity War“
-- Meghan Kane - Bootstrapping the Machine Learning Training Process
+- Meghan Kane - Bootstrapping the Machine Learning Training Process - [Slides](https://www.dropbox.com/s/ujwdi44ail8nuik/architecture.pdf?dl=0)
 - Alexsander Akers - iOS: 10 years in review
 - Tobias Due Munk - Into the Deep – or what would 80s have done with depth sensing technology?
 - Adrian Kosmaczewski - A Quest for a Better World
