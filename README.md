@@ -25,8 +25,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Matteo Bonifazi - How can I React native my Android mobile app?
 - Ana Baotić - Break you app before someone else does
 - Pascal How - Kotlin Extension Functions and Beyond
-- Sebastian Schmidt - Break
-- Ana - Why We Build Products
+- Sebastian Schmidt - Why We Build Products
 - Peter Steinberger - Entrepreneurship
 - David Hart - Swift Generics - The 5 Stages of PATs - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/Swift%20Generics.pdf)
 - Paul Hudson - How to Build a Modern iOS App: Wide color, 3D Touch, Spotlight, and more
