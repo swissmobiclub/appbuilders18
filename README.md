@@ -42,13 +42,12 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - George Karavias - Can CoreML drive an (RC) car?
 
 ### Lightning Talks
-- Florent Pillet - Lessons Learned from the App Store
+- Florent Pillet - Apple MDM and Kiosk applications - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/lightning_talk_MDM_kiosk_apps.pdf)
 - Aleksandar Vacić - One nice trick to solve way too many Auto Layout issues
-- Florent Pillet - Lessons Learned from the App Store - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/lightning_talk_MDM_kiosk_apps.pdf)
 - Seán Lebastille - Using the Swift Package Manager on iOS - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/Using%20the%20Swift%20Package%20Manager%20on%20iOS.pdf)
 - Marin Todorov - Launching a mac app
 - Dorin Danciu - Jumpstarting localization using AppleGlot4
-- Nataliya Patsovska - Apple MDM and Kiosk applications - [Slides](https://www.slideshare.net/NataliyaPatsovska/tasty-cakes-have-complicated-recipes-a-lightning-talk-from-app-builders-2018-by-nataliya-patsovska)
+- Nataliya Patsovska - Tasty kakes have complicated recipes - [Slides](https://www.slideshare.net/NataliyaPatsovska/tasty-cakes-have-complicated-recipes-a-lightning-talk-from-app-builders-2018-by-nataliya-patsovska)
 - Michele Marchetti - Review your own code with Android Lint
 - Josselin Pello - Building your app, or being built by it?
 
