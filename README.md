@@ -18,7 +18,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Sebastian Schmidt - Why We Build Products
 - Peter Steinberger - Entrepreneurship
 - Stefan Aebischer & Reto Schiegg - How to succeed in teaching neural networks
-- Jonathan Rothwell - So You Can Sleep At Night - ethics in software engineering
+- Jonathan Rothwell - So You Can Sleep At Night - ethics in software engineering - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/So%20You%20Can%20Sleep%20At%20Night%20-%20AppBuilders.pdf)
 - George Karavias - Can CoreML drive an (RC) car?
 - Adrian Kosmaczewski - A Quest for a Better World
 
