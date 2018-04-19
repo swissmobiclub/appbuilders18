@@ -41,14 +41,14 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Danny Preussler - To Inject or not inject - Dependency injection in a Kotlin world
 - Matteo Bonifazi - How can I React native my Android mobile app?
 - Ana Baotić - Break you app before someone else does
-- Pascal How - Kotlin Extension Functions and Beyond
+- Pascal How - Kotlin Extension Functions and Beyond - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/AppBuilders%20Switzerland%20Kotlin%20Extensions%20And%20Beyond.pdf)
 - Mario Bodemann - ARrrrg! The Google AR Android Demo Application deciphered - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/%5BAppBuildersCH18📱🇨🇭%5D%20ARrrrrrggh%20.pdf)
 - Wilfried Mbouenda - Want a faster mobile development? Flutter is the way!
 - Elaine Dias Batista - Adding conversational features to your mobile app
 
 ### Lightning Talks
 - Florent Pillet - Apple MDM and Kiosk applications - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/lightning_talk_MDM_kiosk_apps.pdf)
-- Aleksandar Vacić - One nice trick to solve way too many Auto Layout issues
+- Aleksandar Vacić - One nice trick to solve way too many Auto Layout issues - [GitHub](https://github.com/radianttap/AppBuilders2018-lightning-talk)
 - Seán Lebastille - Using the Swift Package Manager on iOS - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/Using%20the%20Swift%20Package%20Manager%20on%20iOS.pdf)
 - Marin Todorov - Launching a mac app
 - Dorin Danciu - Jumpstarting localization using AppleGlot4
