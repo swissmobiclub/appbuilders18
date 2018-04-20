@@ -8,7 +8,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 ## Slides & Videos
 
 ### General
-- Phillip Shoemaker - Lessons Learned from the App Store
+- Phillip Shoemaker - Lessons Learned from the App Store - [Video](https://www.youtube.com/watch?v=tJeEuxn9mug)
 - Beatrice Sigrist Charbonnier - Work-life Balance & Burnout
 - Graham Lee - Rethinking Object-Oriented Design
 - Harlan Haskins & Robert Widmann - Becoming An Effective Contributor to Swift
@@ -32,7 +32,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Matthias Tretter - Swift & Objective-C: The most adventurous mashup since „Avengers: Infinity War“
 - Meghan Kane - Bootstrapping the Machine Learning Training Process - [Slides](https://www.dropbox.com/s/ujwdi44ail8nuik/architecture.pdf?dl=0)
 - Alexsander Akers - iOS: 10 years in review
-- Tobias Due Munk - Into the Deep – or what would 80s have done with depth sensing technology?
+- Tobias Due Munk - Into the Deep – or what would 80s have done with depth sensing technology? - [Video](https://www.youtube.com/watch?v=SCOLRVVRDJk)
 
 ### Android
 - Elif Boncuk - Building an Instant App
@@ -43,7 +43,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Ana Baotić - Break you app before someone else does
 - Pascal How - Kotlin Extension Functions and Beyond - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/AppBuilders%20Switzerland%20Kotlin%20Extensions%20And%20Beyond.pdf)
 - Mario Bodemann - ARrrrg! The Google AR Android Demo Application deciphered - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/%5BAppBuildersCH18📱🇨🇭%5D%20ARrrrrrggh%20.pdf)
-- Wilfried Mbouenda - Want a faster mobile development? Flutter is the way!
+- Wilfried Mbouenda - Want a faster mobile development? Flutter is the way! - [Slides](https://speakerdeck.com/willyshakes/want-a-faster-mobile-development-flutter-is-the-way) - [Video](https://www.youtube.com/watch?v=cdig-5vRQcs&feature=youtu.be)
 - Elaine Dias Batista - Adding conversational features to your mobile app
 
 ### Lightning Talks
