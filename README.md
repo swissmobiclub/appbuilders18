@@ -44,7 +44,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Pascal How - Kotlin Extension Functions and Beyond - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/AppBuilders%20Switzerland%20Kotlin%20Extensions%20And%20Beyond.pdf)
 - Mario Bodemann - ARrrrg! The Google AR Android Demo Application deciphered - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/%5BAppBuildersCH18📱🇨🇭%5D%20ARrrrrrggh%20.pdf)
 - Wilfried Mbouenda - Want a faster mobile development? Flutter is the way! - [Slides](https://speakerdeck.com/willyshakes/want-a-faster-mobile-development-flutter-is-the-way) - [Video](https://www.youtube.com/watch?v=cdig-5vRQcs&feature=youtu.be)
-- Elaine Dias Batista - Adding conversational features to your mobile app
+- Elaine Dias Batista - Adding conversational features to your mobile app - [Slides](https://speakerdeck.com/elainedb/adding-conversational-features-to-your-mobile-app-1)
 
 ### Lightning Talks
 - Florent Pillet - Apple MDM and Kiosk applications - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/lightning_talk_MDM_kiosk_apps.pdf)
@@ -54,7 +54,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Dorin Danciu - Jumpstarting localization using AppleGlot4 - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/AppBuildersCH2018_LightningTalk_AppleGlot_DorinDanciu.pdf)
 - Nataliya Patsovska - Tasty cakes have complicated recipes - [Slides](https://www.slideshare.net/NataliyaPatsovska/tasty-cakes-have-complicated-recipes-a-lightning-talk-from-app-builders-2018-by-nataliya-patsovska)
 - Michele Marchetti - Review your own code with Android Lint
-- Josselin Pello - Building your app, or being built by it?
+- Josselin Pello - Building your app, or being built by it? - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/AppBuilders_Josselin.compressed-1.pdf.pdf)
 
 ## Feedback
 
