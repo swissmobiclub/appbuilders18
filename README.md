@@ -56,6 +56,7 @@ A Conference about mobile technologies in the heart of Europe taking place in Lu
 - Michele Marchetti - Review your own code with Android Lint
 - Josselin Pello - Building your app, or being built by it? - [Slides](https://github.com/swissmobidevs/appbuilders18/blob/master/slides/AppBuilders_Josselin.compressed-1.pdf.pdf)
 
+
 ## Feedback
 
 Please open an issue with your feedback about the conference.
